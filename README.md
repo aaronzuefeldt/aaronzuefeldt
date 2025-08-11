@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aaronzuefeldt
 - 👀 I’m interested in ... Game Development, Web Development
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... Websites bolstering progressive causes
+- 🌱 I’m currently learning ... C#
+- 💞️ I’m looking to collaborate on ... Games
 - 📫 How to reach me ... message me on github
 
 <!---
